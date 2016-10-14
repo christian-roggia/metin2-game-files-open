@@ -12,4 +12,5 @@ This project is dead (last update in 2010) and will no longer be developed by it
 
 ## Authors
 **Christian Roggia** (aka *Luscha*, aka *FadeToBlack*) is the main author and creator of **Game Files Open**.
+
 **ricky92** provided support and coding skills for the project from the version ~7.6 up to the last version.
