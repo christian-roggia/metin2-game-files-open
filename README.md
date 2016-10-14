@@ -1,8 +1,8 @@
-# Game Files Open (Metin2 Archive Manager) (aka Black Decompiler, aka Black Pack All in One)
-**Game Files Open** was a manager for metin2 archive files `*.eix`, `*.epk`.
+# Game Files Open (Metin2 Archive Manager)
+**Game Files Open** (aka Black Decompiler, aka Black Pack All in One) was a manager for metin2 archive files `*.eix`, `*.epk`.
 
 ## History
-This is the first functional tool ever created by its author Christian Roggia (13 years old at the time) and has been downloaded worldwide hundreds of thousands of times (the original release thread on inforge.net only had more than 20.000+ replies and 300.000 views). The tool was translated in more than 10 different languages and reposted on the major forums of metin2. It was the first tool that provided a GUI to the archive manager of metin2 files.
+This is the first functional tool ever created by its author Christian Roggia (13 years old at the time) and has been downloaded worldwide hundreds of thousands of times (the original release thread on cheatforge.net, now inforge.net, had more than 20.000+ replies and 300.000 views). The tool was translated in more than 10 different languages and reposted on the major forums of metin2. It was the first tool that provided a GUI to the archive manager of metin2 files.
 
 ## Tools
 This tool has been developed with **Visual Basic 2008** and later **Visual Studio 2010**.
